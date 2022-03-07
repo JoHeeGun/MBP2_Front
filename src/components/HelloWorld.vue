@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     <h2>통신확인</h2>
+    <h2>test입니다</h2>
     <div v-for="res in data" :key="res.index">{{ res }}</div>
   </div>
 </template>
